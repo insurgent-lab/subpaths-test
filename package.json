@@ -1,0 +1,12 @@
+{
+  "name": "@insurgent/subpaths-test",
+  "description": "Package that exposes various subpath-accessible modules for testing purposes",
+  "version": "1.0.0",
+  "license": "MIT",
+  "maintainers": [
+    "Pierre Cavin <me@sherlox.io> (https://sherlox.io)"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
